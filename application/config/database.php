@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => 'collegemgmdb.ccxtmqbzowxj.us-east-1.rds.amazonaws.com',
+	'username' => 'root',
+	'password' => 'root',
+	'database' => 'collegemgmdb',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
